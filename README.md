@@ -28,6 +28,16 @@ The session is ephemeral: it lives as long as the app is running. No messages ar
 
 ---
 
+
+---
+
+## Demo
+
+![GhostChat demo](assets/demo.jpg)
+
+👉 [Watch the full video on Facebook](https://fb.watch/v/39szwM0JY/)
+
+---
 ## Architecture
 ANDROID HOST
 Flutter App (Dart)
