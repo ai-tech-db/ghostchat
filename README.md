@@ -87,7 +87,7 @@ Browser A, Browser B, Browser C
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/AI-Tech-DB/ghostchat.git
+git clone https://github.com/ai-tech-db/ghostchat.git
 cd ghostchat
 ```
 
@@ -266,8 +266,8 @@ See CONTRIBUTING.md for guidelines.
 
 ## Contact
 
-- **Issues**: https://github.com/AI-Tech-DB/ghostchat/issues
-- **Discussions**: https://github.com/AI-Tech-DB/ghostchat/discussions
+- **Issues**: https://github.com/ai-tech-db/ghostchat/issues
+- **Discussions**: https://github.com/ai-tech-db/ghostchat/discussions
 
 ---
 
