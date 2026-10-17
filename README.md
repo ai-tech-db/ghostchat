@@ -26,6 +26,18 @@ The session is ephemeral: it lives as long as the app is running. No messages ar
 - **Ghost emoji reactions** — 👻❤️ 👻🔥 👻💀 and more
 - **FLAG_SECURE** — blocks screenshots of the app
 
+## Why GhostChat?
+
+Running Cloudflare Tunnel on Android without root has been **broken for years**. The official `cloudflared` (Go) fails because its DNS resolver tries `[::1]:53`, which doesn't exist on non-rooted Android.
+
+GhostChat solves this by using a **pure-Rust QUIC client** ([`cloudflare-quick-tunnel-rs`](https://github.com/shadow3aaa/cloudflare-quick-tunnel-rs)) forked with:
+
+- **JNI bindings** to call it from Flutter
+- **Custom DoH resolver** (hickory) to bypass OEM DNS filtering
+- **`webpki-roots`** bundled for TLS validation without system CAs
+
+Result: a **native Android app** that runs Cloudflare Quick Tunnel with **no root, no Termux, no VPS, no `cloudflared` subprocess**.
+
 ---
 
 ## Demo
