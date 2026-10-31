@@ -261,20 +261,13 @@ See NOTICE for full attributions.
 
 ## License
 
-Licensed under the **Apache License, Version 2.0**.
+This project is licensed under the **GNU General Public License v3.0 (GPL-3.0-or-later)**.
 See LICENSE for the full text.
 
-You are free to:
-- ✅ Use commercially
-- ✅ Modify
-- ✅ Distribute
-- ✅ Sublicense
-- ✅ Sell
-
-Provided you:
-- 📝 Include the license and NOTICE
-- 📝 State significant changes
-- 📝 Preserve attributions
+**What this means in practice:**
+- You can use, modify, and distribute GhostChat for any purpose, including commercial use.
+- If you distribute a modified version, you must make the source code available under the GPL-3.0.
+- You cannot take this code and incorporate it into a proprietary, closed-source product.
 
 ---
 
