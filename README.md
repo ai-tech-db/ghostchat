@@ -5,6 +5,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Android-green.svg)](https://www.android.com)
 [![Android](https://img.shields.io/badge/Android-13%20(API%2033)-3DDC84?logo=android)](https://www.android.com)
 [![Rust](https://img.shields.io/badge/Rust-1.86-000000?logo=rust)](https://www.rust-lang.org)
+[![Sponsor](https://img.shields.io/badge/Sponsor-ai--tech--db-pink?logo=github-sponsors)](https://github.com/sponsors/ai-tech-db)
 
 **Anonymous, end-to-end encrypted, ephemeral chat** — built entirely on an Android phone. No accounts, no servers, no logs.
 
