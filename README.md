@@ -52,6 +52,7 @@ Result: a **native Android app** that runs Cloudflare Quick Tunnel with **no roo
 ![GhostChat demo](assets/demo.jpg)
 
 👉 [Watch the full video on Facebook](https://www.facebook.com/reel/1515365443976250)
+👉 [Watch the reel on Facebook](https://www.facebook.com/share/v/1Cyj44iYMG/)
 
 ---
 
